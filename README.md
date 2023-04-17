@@ -23,7 +23,7 @@ O conexão saúde tem as seguintes funcionalidades.
 ### Como funcionamos:
 
 ![como-funcionamos-1](https://user-images.githubusercontent.com/102876176/232600602-ff6ea0ef-7517-46b7-98ab-5a5a02c2ae50.png)
-![](https://i.imgur.com/9kE2aTj)
+![como-funcionamos-2](https://user-images.githubusercontent.com/102876176/232601278-bad53cdf-fe10-4fd3-8936-82dacc5cdc5d.png)
 
 ## Tecnologias usadas
 
