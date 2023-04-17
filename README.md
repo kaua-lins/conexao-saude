@@ -14,15 +14,15 @@ O conexão saúde tem as seguintes funcionalidades.
 
 ### Tela de login:
 
-![Tela de login](https://imgur.com/Jg8WaEk)
+![](https://imgur.com/Jg8WaEk)
 
 ### Tela principal:
 
-![Consulta de CPF e futuras atualizações](https://imgur.com/joxYxFe)
+![](https://imgur.com/joxYxFe)
 
 ### Como funcionamos:
 
-![Como funcionaria a ideia do app](https://imgur.com/9mFr5mx)
+![](https://imgur.com/9mFr5mx)
 ![](https://imgur.com/9kE2aTj)
 
 ## Tecnologias usadas
