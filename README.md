@@ -12,18 +12,18 @@ O conexão saúde tem as seguintes funcionalidades.
 
 ## Capturas de tela
 
-### Tela de login:
+### Tela de registro:
 
-![](https://imgur.com/Jg8WaEk)
+![Tela de registro](https://i.imgur.com/Jg8WaEk)
 
 ### Tela principal:
 
-![](https://imgur.com/joxYxFe)
+![Tela principal](https://i.imgur.com/joxYxFe)
 
 ### Como funcionamos:
 
-![](https://imgur.com/9mFr5mx)
-![](https://imgur.com/9kE2aTj)
+![Como funcionamos](https://i.imgur.com/9mFr5mx)
+![](https://i.imgur.com/9kE2aTj)
 
 ## Tecnologias usadas
 
