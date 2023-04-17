@@ -18,7 +18,7 @@ O conexão saúde tem as seguintes funcionalidades.
 
 ### Tela principal:
 
-![tela-principal](https://user-images.githubusercontent.com/102876176/232600196-2df704df-c23b-4ab2-8b09-9c67b8931977.png)
+![tela-principal-2](https://user-images.githubusercontent.com/102876176/232600988-a5e1af82-aea8-402f-8335-4b8743c9d888.png)
 
 ### Como funcionamos:
 
