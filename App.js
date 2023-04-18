@@ -19,6 +19,8 @@ export default function App() {
     { opcao: 'Endereços', id: 4 },
   ])
 
+
+
   const botaoCpf = () => {
     setLigar(!ligar);
   };
@@ -90,9 +92,9 @@ export default function App() {
 
             {
               ligar ?
+                <Text></Text>
+                :               
                 <Text style={styles.cpfText}> {cpf} </Text>
-                :
-                <Text> </Text>
             }
           </View>
 
