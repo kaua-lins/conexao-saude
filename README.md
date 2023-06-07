@@ -13,18 +13,25 @@ O conexão saúde tem as seguintes funcionalidades.
 
 ## Capturas de tela
 
-### Cadastro:
+### Tela inicial:
 
-![Cadastro]([https://user-images.githubusercontent.com/102876176/232599306-d2d13ea7-03bd-4329-821d-cc795b6ed3ff.png](https://github.com/kaua-lins/assets/blob/main/cadastro_Easy-Resize.com.jpg))
-
-### Tela principal:
-
-![tela-principal-2](https://user-images.githubusercontent.com/102876176/232600988-a5e1af82-aea8-402f-8335-4b8743c9d888.png)
+![tela-inicial](https://github.com/kaua-lins/assets/blob/main/1686105696005_Easy-Resize.com.jpg)
 
 ### Como funcionamos:
 
-![como-funcionamos-1](https://user-images.githubusercontent.com/102876176/232600602-ff6ea0ef-7517-46b7-98ab-5a5a02c2ae50.png)
-![como-funcionamos-2](https://user-images.githubusercontent.com/102876176/232601278-bad53cdf-fe10-4fd3-8936-82dacc5cdc5d.png)
+![funcionamento-1](https://github.com/kaua-lins/assets/blob/main/funcionamento-1_Easy-Resize.com.jpg) ![funcionamento-2](https://github.com/kaua-lins/assets/blob/main/funcionamento-2_Easy-Resize.com.jpg)
+
+### Cadastro:
+
+![Cadastro](https://github.com/kaua-lins/assets/blob/main/cadastro_Easy-Resize.com.jpg)
+
+### Lista de espera
+
+![lista-de-espera](https://github.com/kaua-lins/assets/blob/main/lista-de-espera_Easy-Resize.com.jpg)
+
+### Lista de fichas
+
+![lista-de-fichas](https://github.com/kaua-lins/assets/blob/main/sua-ficha_Easy-Resize.com.jpg)
 
 ## Tecnologias usadas
 
